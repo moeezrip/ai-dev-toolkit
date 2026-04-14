@@ -1,0 +1,10 @@
+{
+  "name": "ai-dev-toolkit",
+  "version": "1.0.0",
+  "description": "Simple AI CLI tool",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
